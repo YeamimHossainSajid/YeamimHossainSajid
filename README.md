@@ -11,9 +11,9 @@
 
 <h3 align="left">🚀 Let’s collaborate and build amazing things together!.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YHSajid0074&label=Profile%20views&color=0e75b6&style=flat" alt="YHSajid0074" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YeamimHossainSajid&label=Profile%20views&color=0e75b6&style=flat" alt="YeamimHossainSajid" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=YHSajid0074" alt="YHSajid0074" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=YeamimHossainSajid" alt="YeamimHossainSajid" /></a> </p>
 
 <h3 align="left">📫 Connect with me:yeamimhossainsajid@gmail.com</h3>
 <p align="left"></p>
@@ -89,6 +89,6 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YHSajid0074&show_icons=true&locale=en&layout=compact" alt="YHSajid0074" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YeamimHossainSajid&show_icons=true&locale=en&layout=compact" alt="YeamimHossainSajid" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=YHSajid0074&show_icons=true&locale=en" alt="YHSajid0074" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeamimHossainSajid&show_icons=true&locale=en" alt="YeamimHossainSajid" /></p>
