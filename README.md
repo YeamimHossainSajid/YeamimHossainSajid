@@ -26,8 +26,12 @@ Bridging software and machine learning — from backend APIs to MLOps pipelines 
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,docker,kubernetes,aws,azure,react,html,css,js,postgres,mysql,git,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,docker,kubernetes,aws,azure,react,html,css,js,postgres,mysql,mongodb,redis,git,githubactions,jenkins,linux,python,tensorflow,pytorch,numpy,pandas&theme=light" />
+
 </p>
+
+
+
 
 ---
 
