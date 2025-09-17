@@ -12,9 +12,12 @@
 
 ---
 
+
 ## 🌌 About Me
+Bridging software and machine learning — from backend APIs to MLOps pipelines 🌉
 > 🌱 Crafting scalable & secure systems with **Java + Spring Boot**  
 > ⚡ Exploring **Microservices, Kafka, RabbitMQ, Cloud (AWS/Azure)**  
+> 🤖 Working on **MLOps pipelines (CI/CD for ML models, Docker, Kubernetes, MLflow, TensorFlow)**  
 > 📱 Building side projects with **Flutter**  
 > 🧠 250+ **LeetCode problems** solved — I love challenges!  
 > 💖 Anime, coffee, and clean code = my vibe ☕️
@@ -40,26 +43,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YeamimHossainSajid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=YeamimHossainSajid&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
-</p>
+## stats
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YeamimHossainSajid&show_icons=true&locale=en&layout=compact" alt="YeamimHossainSajid" /></p>
+
+<p> <img align="middle" src="https://github-readme-stats.vercel.app/api?username=YeamimHossainSajid&show_icons=true&locale=en" alt="YeamimHossainSajid" /></p>
+
 
 ---
 
-## 📫 Connect
-<p align="center">
-  📧 <b>yeamimhossainsajid@gmail.com</b>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YeamimHossainSajid&label=Profile%20views&color=ffb6c1&style=flat-square" />
-</p>
 
----
-
-<!-- 🌸 Footer Anime Chibi -->
-<p align="center">
-  <img src="https://i.imgur.com/zG6xC7D.gif" width="120" />
-</p>
