@@ -47,7 +47,7 @@ Bridging software and machine learning — from backend APIs to MLOps pipelines 
 
 ---
 
-## stats
+## 📈 Stats
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YeamimHossainSajid&show_icons=true&locale=en&layout=compact" alt="YeamimHossainSajid" /></p>
 
