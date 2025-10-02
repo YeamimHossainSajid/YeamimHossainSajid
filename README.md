@@ -49,7 +49,7 @@ Bridging software and machine learning — from backend APIs to MLOps pipelines 
 
 ## 📈 Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 60px;">
   <img src="https://github-readme-stats.vercel.app/api?username=YeamimHossainSajid&show_icons=true&locale=en&theme=react" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YeamimHossainSajid&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" height="180" />
 </div>
