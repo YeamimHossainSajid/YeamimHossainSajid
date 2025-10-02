@@ -49,9 +49,10 @@ Bridging software and machine learning — from backend APIs to MLOps pipelines 
 
 ## 📈 Stats
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=YeamimHossainSajid&show_icons=true&locale=en&layout=compact" alt="YeamimHossainSajid" /></p>
-
-<p> <img align="middle" src="https://github-readme-stats.vercel.app/api?username=YeamimHossainSajid&show_icons=true&locale=en" alt="YeamimHossainSajid" /></p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=YeamimHossainSajid&show_icons=true&locale=en&theme=react" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YeamimHossainSajid&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" height="180" />
+</div>
 
 
 ---
