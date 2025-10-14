@@ -8,7 +8,7 @@
 ---
 
 
-## 🌌 About Me
+## 👨‍💻 About Me
 Bridging software and machine learning — from backend APIs to MLOps pipelines 🌉
 > 🌱 Crafting scalable & secure systems with **Java + Spring Boot**  
 > ⚡ Exploring **Microservices, Kafka, RabbitMQ, Cloud (AWS/Azure)**  
