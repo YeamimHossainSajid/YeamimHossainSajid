@@ -1,9 +1,8 @@
 
-<h1 align="center">Hey, I'm <b>Yeamim Hossain Sajid</b> </h1>
+<h1 align="center">Hi, I'm <b>Yeamim Hossain Sajid</b> </h1>
 
 <h3 align="center">
-💻 Java Developer | Spring Boot & Microservices Enthusiast <br/>
-📍 Student @ United International University
+💻 Building High-Impact Java & Spring Boot Solutions | 🚀 Pioneering MLOps & Crafting Dynamic Frontends
 </h3>
 
 ---
@@ -45,13 +44,15 @@ Bridging software and machine learning — from backend APIs to MLOps pipelines 
 
 ## 📈 Stats
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" style="padding-right: 20px;">
+    <td width="50%" align="center" valign="middle" style="vertical-align: middle; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=YeamimHossainSajid&show_icons=true&locale=en&theme=react" alt="GitHub Stats" height="180" />
-    </td>
-    <td align="center" style="padding-left: 20px;">
+      <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YeamimHossainSajid&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" height="180" />
+    </td>
+    <td width="50%" align="center" valign="middle" style="vertical-align: middle; text-align: center;">
+      <img src="https://i.pinimg.com/originals/df/d4/57/dfd457dedf4952edb906f4cd4d8f3098.gif" width="400" alt="Coding boy animation" />
     </td>
   </tr>
 </table>
