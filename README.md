@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH64dPzW21-dw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1692387406397?e=2147483647&v=beta&t=q85yemJNnHWVwQ1p0srV7uW6aD5KmZ4h_oXIfOnwL40" alt="banner" width="1100",height="200" />
-</p>
-
 <h1 align="center">Hey, I'm <b>Yeamim Hossain Sajid</b> </h1>
 
 <h3 align="center">
