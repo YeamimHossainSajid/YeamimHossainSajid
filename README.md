@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <b>Yeamim Hossain Sajid</b> </h1>
 
 <h3 align="center">
-💻 Building High-Impact Java & Spring Boot Solutions | 🚀 Exploring MLOps & Cutting-Edge Frontends
+  Building High-Impact Java & Spring Boot Solutions | Exploring MLOps & Cutting-Edge Frontends
 </h3>
 
 ---
